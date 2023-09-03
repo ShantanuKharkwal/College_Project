@@ -5,4 +5,4 @@ College level projects for beginners .
 2) Install Jupyter notebook through cmd.
 3) Install Few python libraries i.e. numpy,matplotlib,pandas,seaborn.
 4) Active Internet connection for runnning project.
-** CSV File can be changes with changes accordingly in code.  
+5) CSV File can be changes with changes accordingly in code.  
